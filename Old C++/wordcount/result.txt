@@ -1,4 +1,0 @@
-are 3
-feet 1
-my 1
-smelly 1
